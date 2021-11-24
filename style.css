@@ -2,10 +2,11 @@ body{
 	background-color:#faeedc;
 }
 hr{
-	border-style: dotted;
-	width: 40%;
+	border-top-style: dotted;
+	width: 8%;
 	border-color: #b2d4c4;
 	border-bottom-style: none;
+	border-width:10px;
 	}
 h1{
 	color:#2a6975 ;
