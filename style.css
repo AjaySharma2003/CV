@@ -2,10 +2,9 @@ body{
 	background-color:#faeedc;
 }
 hr{
-	border-top-style: dotted;
+	border-top-style: dotted none none none;
 	width: 8%;
 	border-color: #b2d4c4;
-	border-bottom-style: none;
 	border-width:10px;
 	}
 h1{
