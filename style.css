@@ -1,0 +1,52 @@
+body{
+	background-color:#cdf2eb;
+	 font-family:verdana;
+}
+hr{
+	border-style: dotted none none none;
+	width: 8%;
+	border-color: #b2d4c4;
+	border-width: 10px;
+	}
+h1{
+	color:#2a6975 ;
+	font-family: cursive;
+	font-size: 300%;
+}
+h3{
+	color: #285f8f;
+}
+a{
+	text-decoration: none;
+}
+#profile{
+	border-radius: 200px;
+	border: solid 0px black;
+	margin: 10px;
+	background-color: white;
+	width: 100px;
+	height: 120px;
+}
+.cloud{
+	width: 200px;
+	height: 220px;
+	margin: 0 auto 0 auto;
+}
+.top-cloud{
+	position: relative;
+	left:200px; 
+	size: 100px;
+}
+.bottom-cloud{
+	position: relative;
+	right: 200px;
+	size: 100px;
+}
+.hobbies{
+	border-radius: 100px;
+	width: 50%;
+}
+.skills{
+		border-radius: 100px;
+	width: 50%;
+}
