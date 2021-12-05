@@ -87,3 +87,19 @@ a{
  a:hover{
  	color: white;
  }
+ footer{
+ 	background-color:#00b8d9;
+ 	margin-bottom: 0px;
+ 	width: 100%;
+ 	padding: 20px;
+ 	margin-left: 0px;
+ 	margin-right: 0px;
+ 	margin: auto;
+ 	color: white;
+ }
+ .contact-me{
+ 	color: black;
+ }
+ .contact-me: hover{
+ 	color: white;
+ }
