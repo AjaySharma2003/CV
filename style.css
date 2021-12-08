@@ -87,19 +87,46 @@ a{
  a:hover{
  	color: white;
  }
- footer{
+ .contact{
  	background-color:#00b8d9;
  	margin-bottom: 0px;
  	width: 100%;
  	padding: 20px;
- 	margin-left: 0px;
+ 	margin-left: auto;
  	margin-right: 0px;
  	margin: auto;
  	color: white;
+ 	margin-bottom: 0px;
  }
  .contact-me{
  	color: black;
  }
- .contact-me: hover{
- 	color: white;
- }
+.btn {
+  background: #2abf7c;
+  background-image: -webkit-linear-gradient(top, #2abf7c, #2980b9);
+  background-image: -moz-linear-gradient(top, #2abf7c, #2980b9);
+  background-image: -ms-linear-gradient(top, #2abf7c, #2980b9);
+  background-image: -o-linear-gradient(top, #2abf7c, #2980b9);
+  background-image: linear-gradient(to bottom, #2abf7c, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.football:hover{
+	stroke: black;
+}
