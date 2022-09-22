@@ -1,0 +1,147 @@
+body{
+	background-color:#cdf2eb;
+	 font-family:verdana;
+	 font-size: 20px;
+	 font-family:'Monospace',Lucida Console;
+}
+hr{
+	border-style: dotted none none none;
+	width: 8%;
+	border-color: #b2d4c4;
+	border-width: 10px;
+	padding: 20px;
+	}
+h1{
+	color:black;
+	font-family: cursive;
+	font-size: 300%;
+}
+h3{
+	color: #285f8f;
+	font-size: 35px;
+}
+a{
+	text-decoration: none;
+}
+#profile{
+	border-radius: 200px;
+	border: solid 0px black;
+	margin: 5px;
+	background-color: white;
+	width: 120px;
+	height: 150px;
+	padding: 8px;
+}
+.cloud{
+	width: 200px;
+	height: 220px;
+	margin: 0 auto 0 auto;
+}
+.top-cloud{
+	position: relative;
+	left:20%; 
+	size: 100px;
+	margin-top: 10px;
+}
+.bottom-cloud{
+	position: relative;
+	right: 20%;
+	size: 100px;
+}
+.mountain{
+	border-radius: 10%;
+	width: 60%;
+	padding: 25px;
+}
+.hobbies,.skills{
+	border-radius: 200px;
+	width: 30%;
+	padding: 20px;
+}
+		h2{
+			color: #300052;
+			font-size: 26px;
+		}
+		.hobby-container{
+			font-family: monospace;
+			font-style: bold;
+			width: 60%;
+			color: #03315e;
+		}
+.learn-image{
+			padding: 25px;
+		}
+        .hobby-class{
+        	border: solid 2px #15324d;
+        	border-radius: 30px;
+        	padding: 5px;
+        	font-family: cursive;
+        	font-size: 120%;
+        	width: 95%;
+        	color: #822222;
+        }
+ a{
+ 	text-decoration: none;
+ 	color: #4dbfa8;
+ }
+ a:hover{
+ 	color: white;
+ }
+ .contact{
+ 	background-color:#00b8d9;
+ 	margin-bottom: 0px;
+ 	width: 100%;
+ 	padding: 20px;
+ 	margin-left: auto;
+ 	margin-right: 0px;
+ 	margin: auto;
+ 	color: white;
+ 	margin-bottom: 0px;
+ }
+ .contact-me{
+ 	color: black;
+ }
+.btn {
+  background: #2abf7c;
+  background-image: -webkit-linear-gradient(top, #2abf7c, #2980b9);
+  background-image: -moz-linear-gradient(top, #2abf7c, #2980b9);
+  background-image: -ms-linear-gradient(top, #2abf7c, #2980b9);
+  background-image: -o-linear-gradient(top, #2abf7c, #2980b9);
+  background-image: linear-gradient(to bottom, #2abf7c, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.football:hover{
+	stroke: black;
+}
+.educational_details{
+	 font-size: 17px;
+	 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.university_name{
+	padding:16px;
+}
+.profiles{
+	color:white;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size:15px;
+}
+.profiles:hover{
+	color:black;
+}
